@@ -25,6 +25,7 @@ from random import random, randint
 #     for j in range(N):
 #         els_col.append(my_list[j][i])
 #     min_el_col.append(min(els_col))
+#     els_col.clear()
 #
 # print(f'Список минимальных элементов в колонках: {min_el_col}')
 # print(f'Максимальный элемент среди минимальных: {max(min_el_col)}')
